@@ -18,6 +18,7 @@ function App() {
           Learn React
           Yo el dios todo poderoso SMITH
         </a>
+        GHOST JOHAN
       </header>
     </div>
   );
