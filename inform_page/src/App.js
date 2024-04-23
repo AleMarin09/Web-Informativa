@@ -1,5 +1,11 @@
 import logo from './logo.svg';
-import './App.css';
+//import './App.css';
+import Home from "./Screens/Home";
+import Benefits from "./Screens/Benefits";
+import Conctact from "./Screens/Conctact";
+import Services from "./Screens/Services";
+import HowWeWork from "./Screens/HowWeWork";
+import NavBar from './Components/NavBar';
 
 function App() {
   return (
@@ -18,7 +24,15 @@ function App() {
           Learn React
           Yo el dios todo poderoso SMITH
         </a>
+        GHOST JOHAN
       </header>
+
+      <NavBar/>
+      <Home/>
+      <Benefits/>
+      <Conctact/>
+      <Services/>
+      <HowWeWork/>
     </div>
   );
 }
