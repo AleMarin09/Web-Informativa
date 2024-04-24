@@ -38,7 +38,7 @@ const NavBar = () => {
     },
     {
       id: 3,
-      link: "HomeWeWork",
+      link: "HowWeWork",
     },
     {
       id: 4,
