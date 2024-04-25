@@ -93,7 +93,7 @@ const NavBar = () => {
                 duration={500}
                 className={styles.navLink}
               >
-                {x.link === "HomeWeWork" ? "How we work" : x.link}
+                {x.link === "HowWeWork" ? "How we work" : x.link}
               </Link>
               <div className={styles.border}></div>
             </div> 
