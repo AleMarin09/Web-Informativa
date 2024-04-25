@@ -5,7 +5,7 @@ const Conctact = () => {
   return (
     <div name="Contact" className={styles.contact}>
       <h2>Contact</h2>
-      <form className={styles.form} method="POST" action='https://getform.io/f/nbdokela' >
+      <form className={styles.form} method="POST" action='https://getform.io/f/zbxdrorb' >
         <label for="Name">Name</label>
         <input id="Name" name="Name" className={styles.input}></input>
         <label for="Email" >Email</label>
